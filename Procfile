@@ -1,1 +1,1 @@
-web: bundle exec ruby fave.rb -p $PORT
+web: bundle exec ruby fave.rb
